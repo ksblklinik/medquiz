@@ -1,5 +1,7 @@
 # MedQuiz AI - Kuis Medis & Asisten Belajar Interaktif 🩺
 
+![MedQuiz AI Screenshot](./screenshot.png)
+
 MedQuiz AI adalah aplikasi web interaktif berbasis **React + Vite** yang dirancang sebagai kuis medis klinis dan asisten belajar kedokteran bertenaga AI. Aplikasi ini dikembangkan untuk memenuhi tugas **Final Project** dalam kursus *LLM-Based Tools and Gemini API Integration for Data Scientists* di **Hacktiv8**.
 
 Dengan antarmuka gelap premium bergaya *glassmorphism*, aplikasi ini mengintegrasikan Large Language Model (LLM) untuk menghasilkan studi kasus klinis yang dinamis, melacak akurasi jawaban, dan menyajikan penjelasan medis yang mendalam.

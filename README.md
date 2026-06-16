@@ -49,7 +49,7 @@ Pastikan Anda sudah menginstal:
 ### 2. Clone dan Masuk ke Folder Proyek
 Jika Anda menggunakan git:
 ```bash
-git clone <url-repositori-github-anda>
+git clone https://github.com/ksblklinik/medquiz
 cd medquiz
 ```
 Atau navigasikan terminal ke folder proyek:
